@@ -1,0 +1,15 @@
+.avatar{
+    border-radius: 50%;
+}
+.nav-item:hover{
+    color: white;
+}
+.titulos{
+    margin-bottom: 90px;
+}
+.tituloschico{
+    margin-top: 50px;
+}
+.enlaces{
+    padding: 10px;
+}
